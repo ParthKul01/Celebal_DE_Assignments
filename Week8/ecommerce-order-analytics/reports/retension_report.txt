@@ -1,0 +1,57 @@
+============================================================
+E-COMMERCE ORDER ANALYTICS
+CUSTOMER COHORT RETENTION REPORT
+============================================================
+
+Report:
+Customer Retention By Registration Cohort
+
+============================================================
+COHORT RETENTION
+============================================================
+
+Cohort Month    Cohort Size    Month 0    Month 1
+------------------------------------------------------------
+
+[Generated automatically]
+
+Month 2        Month 3        M1 Retention
+------------------------------------------------------------
+
+[Generated automatically]
+
+============================================================
+RETENTION DEFINITION
+============================================================
+
+Month 0:
+Registration month
+
+Month 1:
+One month after registration
+
+Month 2:
+Two months after registration
+
+Month 3:
+Three months after registration
+
+Retention Rate:
+
+Active Customers in Month N
+-------------------------------- × 100
+Total Cohort Customers
+
+============================================================
+BUSINESS INTERPRETATION
+============================================================
+
+Cohort analysis helps identify how effectively customers
+continue placing orders after their registration month.
+
+Higher retention percentages indicate stronger customer
+engagement and repeat purchasing behavior.
+
+============================================================
+END OF REPORT
+============================================================

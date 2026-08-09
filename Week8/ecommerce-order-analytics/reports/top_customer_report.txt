@@ -1,0 +1,39 @@
+============================================================
+E-COMMERCE ORDER ANALYTICS
+TOP CUSTOMERS REPORT
+============================================================
+
+Report:
+Top Customers By Total Order Value
+
+============================================================
+TOP CUSTOMERS
+============================================================
+
+Rank    Customer ID      Customer Name       Order Value
+------------------------------------------------------------
+
+1       [Generated]      [Generated]         [Generated]
+2       [Generated]      [Generated]         [Generated]
+3       [Generated]      [Generated]         [Generated]
+4       [Generated]      [Generated]         [Generated]
+5       [Generated]      [Generated]         [Generated]
+6       [Generated]      [Generated]         [Generated]
+7       [Generated]      [Generated]         [Generated]
+8       [Generated]      [Generated]         [Generated]
+9       [Generated]      [Generated]         [Generated]
+10      [Generated]      [Generated]         [Generated]
+
+============================================================
+BUSINESS INTERPRETATION
+============================================================
+
+This report identifies customers contributing the highest
+total order value.
+
+These customers can be considered high-value customers
+for segmentation and targeted business strategies.
+
+============================================================
+END OF REPORT
+============================================================

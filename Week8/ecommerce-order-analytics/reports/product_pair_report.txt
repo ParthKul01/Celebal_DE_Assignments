@@ -1,0 +1,54 @@
+============================================================
+E-COMMERCE ORDER ANALYTICS
+FREQUENTLY BOUGHT TOGETHER REPORT
+============================================================
+
+Report:
+Frequently Bought Together Products
+
+============================================================
+PRODUCT PAIRS
+============================================================
+
+Product A                Product B
+Times Bought Together
+------------------------------------------------------------
+
+[Generated automatically]
+
+============================================================
+PAIRING RULES
+============================================================
+
+1. Products must belong to the same order.
+
+2. Same-product pairs are excluded.
+
+3. Duplicate pairs are excluded.
+
+Example:
+
+Product A + Product B
+
+and
+
+Product B + Product A
+
+are treated as the same pair.
+
+============================================================
+BUSINESS INTERPRETATION
+============================================================
+
+Frequently purchased product combinations can be used
+for:
+
+- Product bundling
+- Cross-selling
+- Recommendation systems
+- Promotional campaigns
+- Basket analysis
+
+============================================================
+END OF REPORT
+============================================================

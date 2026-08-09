@@ -1,0 +1,68 @@
+======================================================================
+E-COMMERCE DATA QUALITY REPORT
+======================================================================
+
+1. DATASET SUMMARY
+----------------------------------------------------------------------
+Customers     : 1000
+Products      : 600
+Orders        : 2000
+Order Items   : 4000
+
+2. CUSTOMER DATA QUALITY
+----------------------------------------------------------------------
+Invalid emails : 20
+
+Customers with invalid emails:
+  - CUST00038
+  - CUST00088
+  - CUST00112
+  - CUST00255
+  - CUST00369
+  - CUST00429
+  - CUST00550
+  - CUST00557
+  - CUST00609
+  - CUST00654
+  - CUST00674
+  - CUST00709
+  - CUST00719
+  - CUST00788
+  - CUST00810
+  - CUST00832
+  - CUST00891
+  - CUST00917
+  - CUST00937
+  - CUST00992
+
+3. PRODUCT DATA QUALITY
+----------------------------------------------------------------------
+Messy product names fixed : 600
+
+4. ORDER DATA QUALITY
+----------------------------------------------------------------------
+Missing customer IDs : 100
+Wrong date formats fixed : 100
+Invalid dates : 0
+
+5. ORDER ITEM DATA QUALITY
+----------------------------------------------------------------------
+Negative quantities : 120
+Zero quantities : 0
+Invalid discounts : 0
+Discounts above 100% : 0
+
+6. REFERENTIAL INTEGRITY
+----------------------------------------------------------------------
+Invalid order references : 0
+Invalid product references : 0
+
+======================================================================
+CLEANING SUMMARY
+======================================================================
+Order dates normalized.
+Product names normalized.
+Invalid emails identified.
+Missing customer IDs identified.
+Negative quantities identified as returns.
+Referential integrity checked.

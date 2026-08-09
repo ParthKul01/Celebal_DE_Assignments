@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,cost_price
+P00001,Customizable 24/7 Concept,Electronics,Mobile,18768.57
+P00002,Streamlined Mission-Critical Knowledgebase,Electronics,Mobile,23206.85
+P00003,Team-Oriented Impactful Protocol,Electronics,Mobile,34009.82
+P00004,User-Friendly Real-Time Success,Electronics,Mobile,34552.82
+P00005,Pre-Emptive Exuding Process Improvement,Electronics,Mobile,7622.17
+P00006,Seamless High-Level Solution,Electronics,Mobile,49885.37
+P00007,Synergistic System-Worthy Service-Desk,Electronics,Mobile,24190.28
+P00008,Object-Based Exuding Array,Electronics,Mobile,14842.07
+P00009,De-Engineered Client-Driven Access,Electronics,Mobile,46035.32
+P00010,Ergonomic Bifurcated Adapter,Electronics,Mobile,4384.15
+P00011,Total Content-Based Algorithm,Electronics,Mobile,41582.76
+P00012,Expanded Mission-Critical Projection,Electronics,Mobile,36534.52
+P00013,Digitized Solution-Oriented Encoding,Electronics,Mobile,17481.6
+P00014,Optional Responsive Utilization,Electronics,Mobile,17219.03
+P00015,Public-Key Content-Based Array,Electronics,Mobile,39235.07
+P00016,Innovative Zero Administration Local Area Network,Electronics,Mobile,26103.63
+P00017,Digitized Methodical Interface,Electronics,Mobile,17480.18
+P00018,Ameliorated Bifurcated Concept,Electronics,Mobile,4971.39
+P00019,Distributed User-Facing Standardization,Electronics,Mobile,36127.5
+P00020,Organic Mobile Leverage,Electronics,Mobile,22677.11
+P00021,Ameliorated Local Paradigm,Electronics,Mobile,3452.0
+P00022,Fully-Configurable Dedicated Frame,Electronics,Mobile,2329.68
+P00023,Re-Contextualized Hybrid Application,Electronics,Mobile,35567.87
+P00024,Managed 24/7 Benchmark,Electronics,Mobile,1227.0
+P00025,Self-Enabling Transitional Internet Solution,Electronics,Mobile,17219.59
+P00026,Operative Modular Support,Electronics,Mobile,5557.2
+P00027,Reduced Radical Superstructure,Electronics,Mobile,40022.5
+P00028,Reactive Explicit Alliance,Electronics,Mobile,46503.13
+P00029,Pre-Emptive Impactful Matrix,Electronics,Mobile,37050.43
+P00030,Profound Optimizing Success,Electronics,Mobile,25848.1
+P00031,Seamless Systematic Matrix,Electronics,Mobile,27640.32
+P00032,Focused Transitional Approach,Electronics,Mobile,16616.38
+P00033,Progressive 3Rdgeneration Interface,Electronics,Mobile,21375.83
+P00034,Re-Engineered Foreground Neural-Net,Electronics,Mobile,23156.5
+P00035,Cloned Encompassing Project,Electronics,Mobile,39908.01
+P00036,Operative Methodical Budgetary Management,Electronics,Mobile,31525.04
+P00037,Proactive Regional Project,Electronics,Mobile,9400.71
+P00038,Monitored Local Standardization,Electronics,Laptop,32899.66
+P00039,Optional 3Rdgeneration Complexity,Electronics,Laptop,19839.56
+P00040,Horizontal Uniform Core,Electronics,Laptop,36895.68
+P00041,Phased Grid-Enabled Intranet,Electronics,Laptop,44166.56
+P00042,Focused Motivating Definition,Electronics,Laptop,22533.79
+P00043,Reverse-Engineered Systemic Graphical User Interface,Electronics,Laptop,21534.69
+P00044,Robust Transitional Protocol,Electronics,Laptop,322.06
+P00045,Persistent Clear-Thinking Frame,Electronics,Laptop,10818.33
+P00046,Up-Sized Transitional Info-Mediaries,Electronics,Laptop,13989.41
+P00047,Operative Systematic Projection,Electronics,Laptop,35217.61
+P00048,User-Centric High-Level Utilization,Electronics,Laptop,39820.8
+P00049,Phased Cohesive Process Improvement,Electronics,Laptop,28909.66
+P00050,Expanded Executive Solution,Electronics,Laptop,39995.17
+P00051,User-Friendly Background Secured Line,Electronics,Laptop,26890.76
+P00052,Polarized Clear-Thinking Conglomeration,Electronics,Laptop,18353.07
+P00053,Exclusive Cohesive Portal,Electronics,Laptop,9934.01
+P00054,Pre-Emptive Bandwidth-Monitored Utilization,Electronics,Laptop,5786.35
+P00055,Operative Modular Framework,Electronics,Laptop,33568.0
+P00056,Front-Line Demand-Driven Open Architecture,Electronics,Laptop,24525.25
+P00057,Business-Focused 3Rdgeneration Help-Desk,Electronics,Laptop,48299.23
+P00058,Fundamental Heuristic Service-Desk,Electronics,Laptop,15738.87
+P00059,Diverse Context-Sensitive Middleware,Electronics,Laptop,19493.1
+P00060,Automated Asymmetric Graphical User Interface,Electronics,Laptop,19687.95
+P00061,Optional Bifurcated Process Improvement,Electronics,Laptop,5800.18
+P00062,Focused Bottom-Line Open Architecture,Electronics,Laptop,17664.05
+P00063,Face-To-Face Mobile Firmware,Electronics,Laptop,22947.24
+P00064,Mandatory Zero Tolerance Help-Desk,Electronics,Laptop,8709.12
+P00065,Visionary 6Thgeneration Throughput,Electronics,Laptop,33712.08
+P00066,Realigned Encompassing Collaboration,Electronics,Laptop,40050.61
+P00067,Team-Oriented Multimedia Portal,Electronics,Laptop,45942.26
+P00068,Synchronized Bi-Directional Strategy,Electronics,Laptop,29549.4
+P00069,Business-Focused Leadingedge Website,Electronics,Laptop,33638.29
+P00070,Persevering Web-Enabled Budgetary Management,Electronics,Laptop,15727.97
+P00071,Customer-Focused Zero Tolerance Pricing Structure,Electronics,Laptop,12004.78
+P00072,Seamless Zero Tolerance Benchmark,Electronics,Laptop,5935.75
+P00073,Realigned 6Thgeneration Middleware,Electronics,Laptop,18727.97
+P00074,Customer-Focused Composite Product,Electronics,Laptop,7153.79
+P00075,Decentralized Demand-Driven Hierarchy,Electronics,Audio,19484.32
+P00076,Diverse Upward-Trending Frame,Electronics,Audio,29861.65
+P00077,Triple-Buffered Leadingedge Task-Force,Electronics,Audio,28782.82
+P00078,Profit-Focused Modular Superstructure,Electronics,Audio,21209.64
+P00079,Cross-Platform Coherent Project,Electronics,Audio,24384.84
+P00080,Multi-Lateral Full-Range Challenge,Electronics,Audio,26915.23
+P00081,Decentralized Dedicated Intranet,Electronics,Audio,45966.13
+P00082,Operative Zero Administration Throughput,Electronics,Audio,46541.68
+P00083,Adaptive Dynamic Workforce,Electronics,Audio,8744.42
+P00084,Phased Global Forecast,Electronics,Audio,8426.59
+P00085,Profit-Focused Composite Artificial Intelligence,Electronics,Audio,14512.86
+P00086,Future-Proofed Holistic Structure,Electronics,Audio,9436.22
+P00087,Versatile Intangible Hierarchy,Electronics,Audio,42115.06
+P00088,Self-Enabling Static Encryption,Electronics,Audio,31008.56
+P00089,Distributed Web-Enabled System Engine,Electronics,Audio,43289.56
+P00090,Progressive Intangible Toolset,Electronics,Audio,47596.91
+P00091,Focused Client-Driven Website,Electronics,Audio,24281.99
+P00092,Optimized Incremental Installation,Electronics,Audio,9836.91
+P00093,Persevering Multi-State Utilization,Electronics,Audio,19258.81
+P00094,Synergized High-Level Algorithm,Electronics,Audio,28122.95
+P00095,Organic Client-Server Throughput,Electronics,Audio,32688.18
+P00096,Advanced Transitional Workforce,Electronics,Audio,20515.8
+P00097,Programmable Asymmetric Artificial Intelligence,Electronics,Audio,24637.12
+P00098,Mandatory Foreground Initiative,Electronics,Audio,35536.1
+P00099,Visionary Composite Internet Solution,Electronics,Audio,22248.2
+P00100,Centralized Hybrid Task-Force,Electronics,Audio,8445.95
+P00101,Automated Stable Project,Electronics,Audio,28313.35
+P00102,Distributed Object-Oriented Approach,Electronics,Audio,39814.46
+P00103,Self-Enabling Transitional Website,Electronics,Audio,11104.42
+P00104,Switchable Multi-State Frame,Electronics,Audio,1731.48
+P00105,Operative Impactful Software,Electronics,Audio,11319.69
+P00106,Total Neutral Framework,Electronics,Audio,14504.65
+P00107,Up-Sized Value-Added Functionalities,Electronics,Audio,39058.94
+P00108,Monitored 24/7 Focus Group,Electronics,Audio,28325.96
+P00109,Progressive Reciprocal Circuit,Electronics,Audio,38650.13
+P00110,Total Impactful Knowledge User,Electronics,Audio,24816.14
+P00111,Stand-Alone Demand-Driven Moratorium,Electronics,Audio,25589.22
+P00112,Secured Zero Tolerance Process Improvement,Electronics,Accessories,28678.43
+P00113,Streamlined Leadingedge Standardization,Electronics,Accessories,13467.66
+P00114,Monitored Zero Tolerance Projection,Electronics,Accessories,27201.0
+P00115,Open-Architected Zero-Defect Customer Loyalty,Electronics,Accessories,49545.59
+P00116,Innovative Attitude-Oriented Alliance,Electronics,Accessories,27147.96
+P00117,Public-Key Full-Range Info-Mediaries,Electronics,Accessories,37863.63
+P00118,Up-Sized Uniform Support,Electronics,Accessories,38024.21
+P00119,De-Engineered Multi-State Moratorium,Electronics,Accessories,22124.19
+P00120,Horizontal Didactic Array,Electronics,Accessories,11005.24
+P00121,Profound Neutral Function,Electronics,Accessories,21315.22
+P00122,Programmable Global System Engine,Electronics,Accessories,36825.84
+P00123,Sharable Cohesive Adapter,Electronics,Accessories,32718.22
+P00124,Assimilated Needs-Based Parallelism,Electronics,Accessories,12451.83
+P00125,Fundamental Disintermediate Time-Frame,Electronics,Accessories,43753.01
+P00126,Innovative Uniform Interface,Electronics,Accessories,1708.3
+P00127,Profit-Focused Bifurcated Superstructure,Electronics,Accessories,13214.48
+P00128,Centralized Holistic Firmware,Electronics,Accessories,43123.76
+P00129,Self-Enabling Motivating Help-Desk,Electronics,Accessories,4440.45
+P00130,Decentralized Actuating System Engine,Electronics,Accessories,43277.99
+P00131,Streamlined Bottom-Line Knowledge User,Electronics,Accessories,5957.56
+P00132,Innovative Object-Oriented Support,Electronics,Accessories,40613.26
+P00133,Adaptive Logistical Graphical User Interface,Electronics,Accessories,10572.92
+P00134,Front-Line Value-Added Paradigm,Electronics,Accessories,36906.89
+P00135,Re-Contextualized Transitional Product,Electronics,Accessories,34487.77
+P00136,Synchronized National Policy,Electronics,Accessories,43066.33
+P00137,Focused Grid-Enabled Framework,Electronics,Accessories,30552.06
+P00138,Horizontal Static Toolset,Electronics,Accessories,21465.54
+P00139,Universal Object-Oriented Service-Desk,Electronics,Accessories,30845.94
+P00140,Devolved Transitional Implementation,Electronics,Accessories,39263.98
+P00141,Programmable User-Facing Encryption,Electronics,Accessories,40695.14
+P00142,Customer-Focused Fresh-Thinking Model,Electronics,Accessories,40291.48
+P00143,Reduced Content-Based Time-Frame,Electronics,Accessories,28546.71
+P00144,Multi-Lateral Logistical Attitude,Electronics,Accessories,26660.81
+P00145,Digitized Transitional Interface,Electronics,Accessories,29883.2
+P00146,Open-Source Attitude-Oriented Array,Electronics,Accessories,8502.03
+P00147,Centralized Interactive Capacity,Electronics,Accessories,48952.11
+P00148,Phased Didactic Knowledge User,Electronics,Accessories,14702.47
+P00149,Compatible Holistic Service-Desk,Clothing,Men,28679.51
+P00150,Progressive Impactful Parallelism,Clothing,Men,47624.63
+P00151,Realigned Multi-State Time-Frame,Clothing,Men,25769.31
+P00152,Object-Based Empowering Paradigm,Clothing,Men,45017.75
+P00153,Proactive Scalable Interface,Clothing,Men,40777.53
+P00154,Organic System-Worthy Matrix,Clothing,Men,6865.89
+P00155,Upgradable Intangible Complexity,Clothing,Men,37529.7
+P00156,Digitized Motivating Capacity,Clothing,Men,20638.65
+P00157,Pre-Emptive Transitional Knowledgebase,Clothing,Men,3058.37
+P00158,De-Engineered Tertiary Migration,Clothing,Men,13938.44
+P00159,Progressive Bottom-Line Solution,Clothing,Men,32829.22
+P00160,Extended Logistical Leverage,Clothing,Men,35101.18
+P00161,Automated Value-Added Complexity,Clothing,Men,6721.27
+P00162,Realigned Holistic Capability,Clothing,Men,7397.55
+P00163,Robust Incremental Budgetary Management,Clothing,Men,16172.63
+P00164,Decentralized Holistic Orchestration,Clothing,Men,12452.98
+P00165,Implemented 6Thgeneration Model,Clothing,Men,42193.43
+P00166,Distributed Bottom-Line Hub,Clothing,Men,19695.77
+P00167,Integrated Holistic Framework,Clothing,Men,7194.36
+P00168,Implemented Mobile Algorithm,Clothing,Men,31656.86
+P00169,Digitized Client-Server Toolset,Clothing,Men,31427.86
+P00170,Reverse-Engineered Intangible Application,Clothing,Men,18821.1
+P00171,Integrated Executive Data-Warehouse,Clothing,Men,3868.26
+P00172,Enterprise-Wide User-Facing Matrix,Clothing,Men,39750.47
+P00173,Adaptive Bottom-Line Neural-Net,Clothing,Men,38467.32
+P00174,Monitored Asymmetric Analyzer,Clothing,Men,20202.25
+P00175,Operative Mission-Critical Orchestration,Clothing,Men,37515.14
+P00176,Integrated Non-Volatile Knowledge User,Clothing,Men,34765.71
+P00177,Mandatory Zero Tolerance Implementation,Clothing,Men,43878.14
+P00178,Phased Uniform Portal,Clothing,Men,22789.31
+P00179,De-Engineered Well-Modulated Challenge,Clothing,Men,24453.42
+P00180,Profit-Focused Scalable Knowledgebase,Clothing,Men,29139.58
+P00181,Virtual Local Secured Line,Clothing,Men,43458.5
+P00182,Organized Coherent Superstructure,Clothing,Men,42373.65
+P00183,Inverse Background Website,Clothing,Men,4747.77
+P00184,Secured Static Process Improvement,Clothing,Men,48610.3
+P00185,Open-Source Human-Resource Emulation,Clothing,Men,31778.54
+P00186,Object-Based Global Moratorium,Clothing,Women,34894.72
+P00187,Balanced Static Intranet,Clothing,Women,42520.3
+P00188,User-Centric Even-Keeled Project,Clothing,Women,39804.33
+P00189,Cross-Group Composite Strategy,Clothing,Women,19946.02
+P00190,Assimilated Object-Oriented Product,Clothing,Women,48409.62
+P00191,Visionary Tertiary Function,Clothing,Women,41259.9
+P00192,Realigned Secondary Capability,Clothing,Women,24786.28
+P00193,Stand-Alone Next Generation Artificial Intelligence,Clothing,Women,16210.97
+P00194,Ergonomic Regional Moratorium,Clothing,Women,14251.29
+P00195,Re-Engineered Web-Enabled Application,Clothing,Women,27410.8
+P00196,Re-Contextualized Multi-State Core,Clothing,Women,6616.65
+P00197,Versatile Methodical Middleware,Clothing,Women,42635.89
+P00198,Ameliorated Bottom-Line Protocol,Clothing,Women,39436.35
+P00199,Public-Key Contextually-Based Adapter,Clothing,Women,44718.32
+P00200,Grass-Roots Zero Tolerance Database,Clothing,Women,38136.48
+P00201,Fully-Configurable Tertiary Paradigm,Clothing,Women,2392.55
+P00202,Organic Attitude-Oriented Workforce,Clothing,Women,31346.36
+P00203,Public-Key Real-Time Graphic Interface,Clothing,Women,41851.44
+P00204,Open-Architected Optimizing Analyzer,Clothing,Women,912.44
+P00205,Pre-Emptive 3Rdgeneration Graphical User Interface,Clothing,Women,46478.7
+P00206,Optional Contextually-Based Instruction Set,Clothing,Women,7983.38
+P00207,Assimilated Multi-Tasking Functionalities,Clothing,Women,22880.25
+P00208,Multi-Tiered Eco-Centric Array,Clothing,Women,49592.73
+P00209,Customizable Bandwidth-Monitored Moratorium,Clothing,Women,21447.19
+P00210,Down-Sized Executive Circuit,Clothing,Women,49785.13
+P00211,Enterprise-Wide Eco-Centric Throughput,Clothing,Women,45479.42
+P00212,Cross-Group Coherent Function,Clothing,Women,44119.17
+P00213,Open-Source Systematic Concept,Clothing,Women,15163.09
+P00214,Centralized Reciprocal Graphic Interface,Clothing,Women,43733.73
+P00215,Enterprise-Wide 4Thgeneration Structure,Clothing,Women,43842.09
+P00216,Centralized Exuding Info-Mediaries,Clothing,Women,4757.67
+P00217,Cross-Platform Foreground Circuit,Clothing,Women,18085.73
+P00218,Open-Source Fresh-Thinking Firmware,Clothing,Women,4212.78
+P00219,Multi-Tiered Bottom-Line Application,Clothing,Women,33258.99
+P00220,Exclusive Disintermediate System Engine,Clothing,Women,32480.67
+P00221,Right-Sized Optimizing Encoding,Clothing,Women,2684.19
+P00222,Proactive Multimedia System Engine,Clothing,Women,31317.65
+P00223,Profit-Focused Human-Resource Budgetary Management,Clothing,Kids,36326.82
+P00224,Future-Proofed Analyzing Functionalities,Clothing,Kids,37786.08
+P00225,Persistent Neutral Installation,Clothing,Kids,21518.62
+P00226,Cloned Mission-Critical Algorithm,Clothing,Kids,4650.84
+P00227,Open-Source Scalable Emulation,Clothing,Kids,4849.67
+P00228,Ameliorated Encompassing Neural-Net,Clothing,Kids,10749.72
+P00229,Reverse-Engineered Systematic Attitude,Clothing,Kids,3989.14
+P00230,Fully-Configurable Well-Modulated Open Architecture,Clothing,Kids,29724.61
+P00231,Streamlined Zero Tolerance Capacity,Clothing,Kids,26020.27
+P00232,Innovative Non-Volatile Installation,Clothing,Kids,22308.84
+P00233,Organized Attitude-Oriented Productivity,Clothing,Kids,502.32
+P00234,Profit-Focused Demand-Driven Toolset,Clothing,Kids,17244.35
+P00235,Digitized Holistic Moratorium,Clothing,Kids,6117.63
+P00236,Down-Sized Zero Tolerance Encryption,Clothing,Kids,43030.98
+P00237,Public-Key Interactive Open Architecture,Clothing,Kids,34732.15
+P00238,Organized 6Thgeneration Ability,Clothing,Kids,23937.24
+P00239,Persistent Regional Frame,Clothing,Kids,11524.45
+P00240,Streamlined Composite Ability,Clothing,Kids,4557.62
+P00241,Centralized Mission-Critical Flexibility,Clothing,Kids,40317.25
+P00242,Right-Sized Eco-Centric Software,Clothing,Kids,5249.76
+P00243,Multi-Tiered Grid-Enabled Product,Clothing,Kids,18441.33
+P00244,Extended Optimal Migration,Clothing,Kids,15032.84
+P00245,Horizontal 6Thgeneration Complexity,Clothing,Kids,19197.78
+P00246,User-Centric National Open System,Clothing,Kids,40687.06
+P00247,Cloned Exuding Array,Clothing,Kids,43737.42
+P00248,Object-Based Tangible Capability,Clothing,Kids,32114.65
+P00249,Devolved Uniform Open Architecture,Clothing,Kids,33889.14
+P00250,Grass-Roots Intermediate Database,Clothing,Kids,3513.74
+P00251,Seamless Motivating Website,Clothing,Kids,28208.23
+P00252,Intuitive Systemic Graphical User Interface,Clothing,Kids,30554.93
+P00253,Sharable Empowering System Engine,Clothing,Kids,8289.42
+P00254,Triple-Buffered Local Flexibility,Clothing,Kids,17624.27
+P00255,Fully-Configurable Stable Graphic Interface,Clothing,Kids,10731.47
+P00256,Mandatory Demand-Driven Knowledgebase,Clothing,Kids,37438.61
+P00257,Right-Sized Full-Range Adapter,Clothing,Kids,46002.72
+P00258,Team-Oriented Client-Driven Project,Clothing,Kids,30842.19
+P00259,Adaptive Real-Time Leverage,Clothing,Kids,22174.96
+P00260,Adaptive 24/7 Service-Desk,Clothing,Footwear,10940.51
+P00261,Enhanced Incremental Open Architecture,Clothing,Footwear,44839.99
+P00262,Total Tertiary Matrix,Clothing,Footwear,7086.66
+P00263,Virtual Hybrid Monitoring,Clothing,Footwear,6245.55
+P00264,Configurable Zero Tolerance Projection,Clothing,Footwear,36527.46
+P00265,Streamlined Asynchronous Monitoring,Clothing,Footwear,17641.63
+P00266,Assimilated Static Intranet,Clothing,Footwear,21526.5
+P00267,Synergistic Bottom-Line Help-Desk,Clothing,Footwear,39574.73
+P00268,Multi-Tiered Radical Help-Desk,Clothing,Footwear,12464.54
+P00269,Networked Context-Sensitive Throughput,Clothing,Footwear,32266.57
+P00270,Total 24/7 Capability,Clothing,Footwear,12483.53
+P00271,Persistent Holistic Core,Clothing,Footwear,30089.85
+P00272,Organic 24/7 Definition,Clothing,Footwear,36086.86
+P00273,User-Friendly 3Rdgeneration Task-Force,Clothing,Footwear,14317.55
+P00274,Grass-Roots Systemic Strategy,Clothing,Footwear,47069.83
+P00275,Multi-Channeled Content-Based Array,Clothing,Footwear,1438.54
+P00276,Seamless Responsive Framework,Clothing,Footwear,42368.79
+P00277,Universal Directional Emulation,Clothing,Footwear,43803.78
+P00278,Proactive High-Level Alliance,Clothing,Footwear,10351.74
+P00279,Grass-Roots Modular Strategy,Clothing,Footwear,30385.65
+P00280,Triple-Buffered Real-Time Database,Clothing,Footwear,9513.46
+P00281,Adaptive Dedicated Productivity,Clothing,Footwear,19648.38
+P00282,Object-Based Bifurcated Focus Group,Clothing,Footwear,32343.87
+P00283,Re-Contextualized Motivating Methodology,Clothing,Footwear,39211.7
+P00284,Down-Sized Neutral Core,Clothing,Footwear,39709.52
+P00285,Switchable User-Facing Open System,Clothing,Footwear,12043.12
+P00286,Synergistic Systemic Portal,Clothing,Footwear,19355.69
+P00287,Re-Contextualized Context-Sensitive Architecture,Clothing,Footwear,12129.98
+P00288,Reverse-Engineered Clear-Thinking Synergy,Clothing,Footwear,31940.31
+P00289,Cloned Clear-Thinking Firmware,Clothing,Footwear,3643.5
+P00290,Re-Contextualized Discrete Model,Clothing,Footwear,44447.35
+P00291,Upgradable Zero Tolerance Focus Group,Clothing,Footwear,702.14
+P00292,Ergonomic Systematic Adapter,Clothing,Footwear,18118.8
+P00293,Team-Oriented Systematic Monitoring,Clothing,Footwear,15891.99
+P00294,Seamless Eco-Centric Software,Clothing,Footwear,19403.23
+P00295,Realigned Logistical Ability,Clothing,Footwear,41964.77
+P00296,Optimized Secondary Service-Desk,Clothing,Footwear,21101.09
+P00297,Streamlined Actuating Graphic Interface,Home,Kitchen,27363.18
+P00298,Optional Incremental Focus Group,Home,Kitchen,8721.24
+P00299,Decentralized Systemic Model,Home,Kitchen,23603.63
+P00300,Persistent Modular Hierarchy,Home,Kitchen,49369.58
+P00301,Programmable Well-Modulated Analyzer,Home,Kitchen,3742.29
+P00302,Up-Sized Directional Application,Home,Kitchen,29409.44
+P00303,Grass-Roots Intangible Monitoring,Home,Kitchen,788.29
+P00304,Organized Foreground Ability,Home,Kitchen,10865.57
+P00305,Object-Based Content-Based Groupware,Home,Kitchen,46136.71
+P00306,Configurable Object-Oriented Workforce,Home,Kitchen,47439.13
+P00307,Assimilated User-Facing Definition,Home,Kitchen,19958.95
+P00308,Team-Oriented Interactive Archive,Home,Kitchen,14395.74
+P00309,Fully-Configurable Dedicated Concept,Home,Kitchen,35660.19
+P00310,Managed Fault-Tolerant Architecture,Home,Kitchen,38378.79
+P00311,Self-Enabling Responsive Attitude,Home,Kitchen,21236.4
+P00312,Assimilated Mission-Critical Internet Solution,Home,Kitchen,20173.64
+P00313,Assimilated Optimizing Website,Home,Kitchen,32062.81
+P00314,Self-Enabling Full-Range Extranet,Home,Kitchen,26929.0
+P00315,Fully-Configurable Bi-Directional Leverage,Home,Kitchen,7718.75
+P00316,Front-Line Global Application,Home,Kitchen,4271.49
+P00317,Managed Multi-State Utilization,Home,Kitchen,4043.18
+P00318,Front-Line Asynchronous Time-Frame,Home,Kitchen,46054.15
+P00319,Right-Sized Regional Intranet,Home,Kitchen,48718.24
+P00320,Virtual Bandwidth-Monitored Product,Home,Kitchen,7853.32
+P00321,Organized Optimal Capability,Home,Kitchen,16404.84
+P00322,Configurable Analyzing Alliance,Home,Kitchen,29363.21
+P00323,Multi-Tiered Foreground Solution,Home,Kitchen,38184.88
+P00324,Cloned Zero Tolerance Capacity,Home,Kitchen,32526.99
+P00325,Centralized Leadingedge Approach,Home,Kitchen,32193.41
+P00326,Innovative Reciprocal Product,Home,Kitchen,15577.46
+P00327,Optional Asymmetric Benchmark,Home,Kitchen,21930.55
+P00328,Synergistic Analyzing Open Architecture,Home,Kitchen,47676.06
+P00329,Business-Focused Explicit Implementation,Home,Kitchen,12008.01
+P00330,Open-Architected Bandwidth-Monitored Process Improvement,Home,Kitchen,12299.54
+P00331,Versatile Incremental Emulation,Home,Kitchen,46238.92
+P00332,Right-Sized Zero Tolerance Protocol,Home,Kitchen,5887.73
+P00333,Secured 24/7 Knowledgebase,Home,Kitchen,30653.61
+P00334,Networked Maximized Utilization,Home,Furniture,2845.93
+P00335,Optimized Regional Process Improvement,Home,Furniture,33337.37
+P00336,Cross-Platform Global Projection,Home,Furniture,32936.81
+P00337,Synergistic Zero Tolerance Algorithm,Home,Furniture,8864.73
+P00338,Persevering Multi-State Groupware,Home,Furniture,731.98
+P00339,Reverse-Engineered Content-Based Benchmark,Home,Furniture,6946.87
+P00340,Customer-Focused 24/7 Policy,Home,Furniture,666.4
+P00341,Universal Asymmetric Parallelism,Home,Furniture,24871.01
+P00342,Ergonomic Object-Oriented Capacity,Home,Furniture,17400.59
+P00343,Sharable Multimedia Extranet,Home,Furniture,25909.42
+P00344,Multi-Channeled Intangible Matrices,Home,Furniture,41143.09
+P00345,Up-Sized Regional Intranet,Home,Furniture,13036.42
+P00346,Enterprise-Wide Dynamic Challenge,Home,Furniture,18656.28
+P00347,Balanced Analyzing Capacity,Home,Furniture,37513.84
+P00348,Integrated Optimal Internet Solution,Home,Furniture,43685.66
+P00349,Profound Solution-Oriented System Engine,Home,Furniture,36673.5
+P00350,Multi-Channeled Fault-Tolerant Paradigm,Home,Furniture,5991.03
+P00351,Quality-Focused Zero-Defect Circuit,Home,Furniture,45004.88
+P00352,Digitized Methodical Function,Home,Furniture,16817.05
+P00353,Robust Global Frame,Home,Furniture,21523.3
+P00354,Multi-Layered 24/7 Model,Home,Furniture,26240.33
+P00355,Reverse-Engineered Stable Service-Desk,Home,Furniture,13221.19
+P00356,Digitized Analyzing Encoding,Home,Furniture,48755.02
+P00357,Profit-Focused Next Generation Application,Home,Furniture,31413.89
+P00358,Optimized Grid-Enabled Customer Loyalty,Home,Furniture,24857.76
+P00359,Exclusive Scalable Customer Loyalty,Home,Furniture,25588.02
+P00360,Cloned Global Core,Home,Furniture,2866.41
+P00361,Synchronized Methodical Solution,Home,Furniture,42982.05
+P00362,Team-Oriented Maximized Policy,Home,Furniture,8427.38
+P00363,Team-Oriented Full-Range Paradigm,Home,Furniture,7949.77
+P00364,Re-Contextualized Full-Range Pricing Structure,Home,Furniture,38689.11
+P00365,Innovative Intangible Groupware,Home,Furniture,44723.99
+P00366,Diverse Bi-Directional Knowledgebase,Home,Furniture,33738.61
+P00367,Balanced Modular Definition,Home,Furniture,5855.15
+P00368,Adaptive Scalable Definition,Home,Furniture,37064.92
+P00369,Team-Oriented Discrete Local Area Network,Home,Furniture,228.17
+P00370,Secured Didactic Encoding,Home,Furniture,42948.58
+P00371,Polarized User-Facing Throughput,Home,Decor,713.17
+P00372,Managed User-Facing Implementation,Home,Decor,2394.48
+P00373,Expanded Impactful Contingency,Home,Decor,18262.43
+P00374,Adaptive High-Level Access,Home,Decor,46019.3
+P00375,Compatible Heuristic Algorithm,Home,Decor,9030.15
+P00376,Realigned Bifurcated Circuit,Home,Decor,48021.07
+P00377,Implemented Leadingedge Core,Home,Decor,1864.64
+P00378,Self-Enabling Optimal Task-Force,Home,Decor,40175.46
+P00379,Multi-Lateral 6Thgeneration Algorithm,Home,Decor,35729.64
+P00380,Exclusive Dedicated Forecast,Home,Decor,32819.59
+P00381,Enhanced Directional Firmware,Home,Decor,11303.31
+P00382,Up-Sized Context-Sensitive Graphical User Interface,Home,Decor,12488.33
+P00383,Reactive Dynamic Conglomeration,Home,Decor,45801.15
+P00384,Exclusive 3Rdgeneration Conglomeration,Home,Decor,16064.76
+P00385,Fundamental Bandwidth-Monitored Adapter,Home,Decor,41317.25
+P00386,Synergistic Client-Driven Implementation,Home,Decor,28619.64
+P00387,Streamlined Zero Tolerance Budgetary Management,Home,Decor,6058.11
+P00388,Mandatory Demand-Driven Function,Home,Decor,33698.95
+P00389,Persevering Disintermediate Hub,Home,Decor,2728.34
+P00390,Multi-Layered Stable Concept,Home,Decor,11236.93
+P00391,Progressive Regional Internet Solution,Home,Decor,25837.13
+P00392,Universal Asymmetric Capability,Home,Decor,2391.84
+P00393,Digitized Clear-Thinking Utilization,Home,Decor,20106.15
+P00394,Ergonomic Content-Based Monitoring,Home,Decor,43861.86
+P00395,Multi-Tiered System-Worthy Hub,Home,Decor,43315.01
+P00396,Intuitive Radical Interface,Home,Decor,38699.02
+P00397,Sharable Dynamic Analyzer,Home,Decor,15603.82
+P00398,Virtual Reciprocal Parallelism,Home,Decor,4410.64
+P00399,Ergonomic National Frame,Home,Decor,22891.63
+P00400,Distributed Fresh-Thinking Encryption,Home,Decor,18509.08
+P00401,Business-Focused Responsive Utilization,Home,Decor,14650.6
+P00402,Grass-Roots Clear-Thinking Migration,Home,Decor,39246.91
+P00403,Reduced Mobile Database,Home,Decor,37004.84
+P00404,Upgradable Attitude-Oriented Toolset,Home,Decor,12204.94
+P00405,Phased Stable Pricing Structure,Home,Decor,18476.85
+P00406,Cloned Composite Migration,Home,Decor,48595.7
+P00407,Networked Web-Enabled Project,Home,Decor,49889.58
+P00408,Versatile Multimedia Hub,Home,Appliances,38816.71
+P00409,Proactive Multi-State Local Area Network,Home,Appliances,36649.92
+P00410,Enhanced Fresh-Thinking Structure,Home,Appliances,27373.31
+P00411,Multi-Layered Multi-Tasking Solution,Home,Appliances,39819.08
+P00412,Polarized Transitional Methodology,Home,Appliances,7613.26
+P00413,Phased Encompassing Paradigm,Home,Appliances,46626.64
+P00414,Open-Architected Scalable Utilization,Home,Appliances,1293.12
+P00415,Reduced Solution-Oriented Alliance,Home,Appliances,27123.11
+P00416,Expanded Directional Customer Loyalty,Home,Appliances,31833.5
+P00417,Organized Disintermediate Infrastructure,Home,Appliances,34703.69
+P00418,Extended Fault-Tolerant Interface,Home,Appliances,578.78
+P00419,Multi-Tiered Object-Oriented Complexity,Home,Appliances,16817.37
+P00420,Multi-Layered Eco-Centric Neural-Net,Home,Appliances,37970.56
+P00421,Configurable Client-Driven System Engine,Home,Appliances,18876.11
+P00422,Configurable Explicit Intranet,Home,Appliances,36930.32
+P00423,Programmable Heuristic Emulation,Home,Appliances,15444.78
+P00424,Reduced 6Thgeneration Local Area Network,Home,Appliances,10339.2
+P00425,Profound Regional Graphical User Interface,Home,Appliances,49157.48
+P00426,Optimized Local Local Area Network,Home,Appliances,21048.81
+P00427,Optional Incremental Hub,Home,Appliances,48063.13
+P00428,Proactive Foreground Flexibility,Home,Appliances,48630.71
+P00429,Multi-Tiered 4Thgeneration Conglomeration,Home,Appliances,7204.44
+P00430,Organic Discrete Firmware,Home,Appliances,14063.28
+P00431,Stand-Alone Asynchronous Help-Desk,Home,Appliances,2290.62
+P00432,Configurable Explicit Middleware,Home,Appliances,11650.48
+P00433,Profound Needs-Based Project,Home,Appliances,42290.66
+P00434,Configurable Zero Tolerance Focus Group,Home,Appliances,20711.53
+P00435,Focused Bandwidth-Monitored Capability,Home,Appliances,44789.34
+P00436,Compatible High-Level Alliance,Home,Appliances,22977.06
+P00437,Quality-Focused Dedicated Groupware,Home,Appliances,37420.18
+P00438,Exclusive Systematic Groupware,Home,Appliances,29080.45
+P00439,Function-Based Exuding Synergy,Home,Appliances,25320.85
+P00440,Visionary Systemic Focus Group,Home,Appliances,31897.06
+P00441,Ergonomic Tertiary Portal,Home,Appliances,19778.13
+P00442,Devolved Web-Enabled Structure,Home,Appliances,29635.6
+P00443,User-Centric Needs-Based Firmware,Home,Appliances,3207.91
+P00444,Advanced Zero Administration Framework,Home,Appliances,33155.95
+P00445,Horizontal Grid-Enabled Toolset,Books,Technology,6622.34
+P00446,Open-Architected Impactful Paradigm,Books,Technology,14654.63
+P00447,Versatile Solution-Oriented Access,Books,Technology,42560.59
+P00448,Phased Solution-Oriented Migration,Books,Technology,46309.49
+P00449,Virtual Coherent Infrastructure,Books,Technology,19708.34
+P00450,Focused Discrete Success,Books,Technology,41611.8
+P00451,User-Friendly Demand-Driven Leverage,Books,Technology,16379.95
+P00452,Focused Multi-State Parallelism,Books,Technology,22692.62
+P00453,Reactive Web-Enabled Local Area Network,Books,Technology,11757.2
+P00454,Up-Sized Maximized Graphical User Interface,Books,Technology,47183.38
+P00455,Configurable Foreground Core,Books,Technology,6891.98
+P00456,Optimized Zero Administration Standardization,Books,Technology,38530.32
+P00457,Operative Demand-Driven Intranet,Books,Technology,5537.74
+P00458,Organized Next Generation Algorithm,Books,Technology,5372.32
+P00459,Multi-Layered Client-Driven Orchestration,Books,Technology,22533.38
+P00460,De-Engineered Fault-Tolerant Support,Books,Technology,15770.26
+P00461,Advanced Modular Workforce,Books,Technology,6124.76
+P00462,Switchable Heuristic Graphical User Interface,Books,Technology,17978.54
+P00463,Face-To-Face Intangible Interface,Books,Technology,38539.8
+P00464,Synergized Web-Enabled Initiative,Books,Technology,22650.66
+P00465,Virtual Zero-Defect Solution,Books,Technology,23221.0
+P00466,Public-Key Exuding Graphic Interface,Books,Technology,42638.86
+P00467,Reverse-Engineered 3Rdgeneration Open System,Books,Technology,4612.0
+P00468,Automated Client-Driven Collaboration,Books,Technology,40399.09
+P00469,Managed Non-Volatile Product,Books,Technology,15280.33
+P00470,Robust Real-Time Orchestration,Books,Technology,35264.77
+P00471,Object-Based Homogeneous Database,Books,Technology,30204.79
+P00472,Object-Based Asymmetric Monitoring,Books,Technology,10829.54
+P00473,Networked Content-Based Leverage,Books,Technology,42843.01
+P00474,Customer-Focused Full-Range Open System,Books,Technology,7501.36
+P00475,Organized Scalable Framework,Books,Technology,35586.75
+P00476,Cross-Group Composite Benchmark,Books,Technology,48423.16
+P00477,Synergistic Neutral Conglomeration,Books,Technology,19872.6
+P00478,Automated System-Worthy Portal,Books,Technology,2542.64
+P00479,Pre-Emptive 4Thgeneration Contingency,Books,Technology,15012.15
+P00480,Exclusive Asymmetric Info-Mediaries,Books,Technology,41022.47
+P00481,Horizontal Demand-Driven Emulation,Books,Technology,8776.0
+P00482,Implemented Stable Moderator,Books,Fiction,47609.62
+P00483,Cloned Logistical Approach,Books,Fiction,42744.61
+P00484,Multi-Layered Multi-State Access,Books,Fiction,27842.09
+P00485,Down-Sized Fresh-Thinking Installation,Books,Fiction,27551.03
+P00486,Object-Based Cohesive Budgetary Management,Books,Fiction,4826.79
+P00487,De-Engineered National Instruction Set,Books,Fiction,5185.18
+P00488,Polarized Value-Added Architecture,Books,Fiction,39711.11
+P00489,Networked Demand-Driven Capacity,Books,Fiction,6160.52
+P00490,Expanded Fault-Tolerant Internet Solution,Books,Fiction,3177.29
+P00491,Triple-Buffered Static Leverage,Books,Fiction,39069.9
+P00492,Diverse Real-Time Orchestration,Books,Fiction,11192.18
+P00493,Integrated Optimizing Customer Loyalty,Books,Fiction,9986.84
+P00494,Profit-Focused Transitional Software,Books,Fiction,20089.03
+P00495,Persevering Even-Keeled Customer Loyalty,Books,Fiction,34345.63
+P00496,Adaptive Client-Server Knowledge User,Books,Fiction,46884.99
+P00497,Cloned Impactful Portal,Books,Fiction,4293.57
+P00498,Fully-Configurable Multi-Tasking Groupware,Books,Fiction,29347.33
+P00499,Re-Contextualized Mobile Knowledgebase,Books,Fiction,45879.69
+P00500,Persistent Object-Oriented Analyzer,Books,Fiction,3841.86
+P00501,User-Centric Background Forecast,Books,Fiction,49858.36
+P00502,Stand-Alone Logistical Hardware,Books,Fiction,9967.74
+P00503,Total Transitional Utilization,Books,Fiction,32334.75
+P00504,Innovative Hybrid Pricing Structure,Books,Fiction,40484.0
+P00505,Enhanced Intangible Encryption,Books,Fiction,4689.73
+P00506,Enhanced Regional Superstructure,Books,Fiction,42379.04
+P00507,Optional Logistical Info-Mediaries,Books,Fiction,40463.47
+P00508,Switchable Contextually-Based Standardization,Books,Fiction,6214.13
+P00509,Re-Contextualized Bandwidth-Monitored Infrastructure,Books,Fiction,47119.8
+P00510,Total 6Thgeneration Encoding,Books,Fiction,2626.82
+P00511,Diverse Even-Keeled Product,Books,Fiction,46214.17
+P00512,Public-Key Explicit Secured Line,Books,Fiction,21714.5
+P00513,Cloned Tangible Success,Books,Fiction,36249.1
+P00514,Up-Sized Didactic Methodology,Books,Fiction,24856.71
+P00515,Open-Source Well-Modulated Neural-Net,Books,Fiction,19198.2
+P00516,Decentralized Holistic Archive,Books,Fiction,21390.53
+P00517,Versatile Bi-Directional Middleware,Books,Fiction,17761.77
+P00518,Visionary Zero-Defect Graphic Interface,Books,Fiction,45424.38
+P00519,Open-Source Local Concept,Books,Business,13821.59
+P00520,Function-Based Demand-Driven Middleware,Books,Business,22355.97
+P00521,Balanced Maximized Algorithm,Books,Business,7516.71
+P00522,Compatible Scalable Solution,Books,Business,30743.92
+P00523,Synergistic Value-Added Local Area Network,Books,Business,30887.16
+P00524,Multi-Tiered Global Synergy,Books,Business,32399.19
+P00525,Open-Architected Content-Based Infrastructure,Books,Business,24994.69
+P00526,Automated 24/7 Extranet,Books,Business,44150.65
+P00527,Customizable Tertiary Challenge,Books,Business,24003.64
+P00528,Inverse Static Synergy,Books,Business,4477.31
+P00529,Persistent Mobile Local Area Network,Books,Business,19212.46
+P00530,Cloned Attitude-Oriented Neural-Net,Books,Business,21019.82
+P00531,Switchable Dynamic Structure,Books,Business,32168.36
+P00532,Organic Client-Driven Leverage,Books,Business,39880.18
+P00533,Grass-Roots Cohesive Concept,Books,Business,12532.47
+P00534,Ameliorated Real-Time Attitude,Books,Business,49704.96
+P00535,Enhanced Explicit Capability,Books,Business,27228.47
+P00536,Public-Key User-Facing Infrastructure,Books,Business,1074.55
+P00537,Down-Sized Asynchronous Secured Line,Books,Business,19186.65
+P00538,Virtual 24/7 Service-Desk,Books,Business,35697.2
+P00539,Future-Proofed Coherent Intranet,Books,Business,24036.25
+P00540,Multi-Channeled Context-Sensitive Data-Warehouse,Books,Business,39093.61
+P00541,Universal 5Thgeneration Service-Desk,Books,Business,17267.3
+P00542,Public-Key Didactic Intranet,Books,Business,28325.99
+P00543,Total Actuating Productivity,Books,Business,16148.06
+P00544,Programmable Secondary Protocol,Books,Business,13594.74
+P00545,Universal Stable Benchmark,Books,Business,1400.54
+P00546,Networked System-Worthy Function,Books,Business,29896.11
+P00547,Organic Actuating Policy,Books,Business,1562.24
+P00548,Adaptive Actuating Throughput,Books,Business,40553.4
+P00549,Multi-Tiered Zero Administration Customer Loyalty,Books,Business,14118.54
+P00550,Fully-Configurable Holistic Encoding,Books,Business,40451.83
+P00551,Exclusive Background Adapter,Books,Business,23637.05
+P00552,Operative 4Thgeneration Access,Books,Business,17935.9
+P00553,Mandatory Content-Based Software,Books,Business,29241.05
+P00554,Synchronized Asymmetric Definition,Books,Business,11714.83
+P00555,Cross-Platform Static Concept,Books,Business,8065.28
+P00556,Up-Sized Composite Analyzer,Books,Education,12468.07
+P00557,Operative Multimedia Benchmark,Books,Education,12133.52
+P00558,Inverse Fresh-Thinking Open Architecture,Books,Education,26731.11
+P00559,Self-Enabling Content-Based Process Improvement,Books,Education,39582.74
+P00560,Expanded Needs-Based Infrastructure,Books,Education,36879.3
+P00561,Optimized Bottom-Line Emulation,Books,Education,38226.08
+P00562,Extended Bi-Directional Help-Desk,Books,Education,47395.34
+P00563,Inverse Context-Sensitive Access,Books,Education,28827.04
+P00564,Open-Architected Solution-Oriented Functionalities,Books,Education,49134.97
+P00565,Advanced Human-Resource Data-Warehouse,Books,Education,19482.28
+P00566,Persevering Directional Architecture,Books,Education,46766.78
+P00567,Switchable Even-Keeled Projection,Books,Education,49577.94
+P00568,Secured Holistic Analyzer,Books,Education,8768.23
+P00569,Cloned Didactic Installation,Books,Education,11903.9
+P00570,Innovative Zero Administration Policy,Books,Education,15968.42
+P00571,Proactive Bi-Directional Structure,Books,Education,36931.44
+P00572,Public-Key Non-Volatile Concept,Books,Education,18003.28
+P00573,Function-Based Bandwidth-Monitored Policy,Books,Education,29618.97
+P00574,Inverse Responsive Standardization,Books,Education,35202.3
+P00575,Networked Systematic Throughput,Books,Education,17648.94
+P00576,Team-Oriented Client-Driven Groupware,Books,Education,28425.8
+P00577,Enhanced Scalable Task-Force,Books,Education,7190.9
+P00578,Team-Oriented Foreground Secured Line,Books,Education,47423.59
+P00579,Polarized Asymmetric Groupware,Books,Education,41851.17
+P00580,Ameliorated Real-Time Paradigm,Books,Education,40539.02
+P00581,Organized Homogeneous Migration,Books,Education,48522.35
+P00582,Sharable User-Facing Emulation,Books,Education,27152.02
+P00583,Profit-Focused Optimizing Strategy,Books,Education,8860.28
+P00584,Advanced Discrete Adapter,Books,Education,1994.39
+P00585,Seamless Well-Modulated Capability,Books,Education,2902.78
+P00586,Integrated Disintermediate Support,Books,Education,30122.97
+P00587,Optimized Web-Enabled Encryption,Books,Education,1094.41
+P00588,Secured Attitude-Oriented Approach,Books,Education,23951.65
+P00589,Devolved Holistic Methodology,Books,Education,16653.53
+P00590,Implemented Dedicated Collaboration,Books,Education,30745.32
+P00591,Multi-Tiered Demand-Driven Project,Books,Education,40341.63
+P00592,Automated Disintermediate Success,Books,Education,17103.88
+P00593,Right-Sized Leadingedge Support,Clothing,Kids,3071.84
+P00594,Managed Client-Driven Focus Group,Clothing,Women,38740.89
+P00595,Intuitive Secondary Toolset,Home,Kitchen,18742.18
+P00596,Virtual 6Thgeneration Model,Books,Technology,16894.4
+P00597,Operative Secondary Forecast,Home,Furniture,48795.45
+P00598,Versatile 4Thgeneration Emulation,Books,Education,32494.1
+P00599,Upgradable Full-Range Graphical User Interface,Clothing,Kids,11239.54
+P00600,Fully-Configurable Demand-Driven Moratorium,Clothing,Footwear,15410.48
